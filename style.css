@@ -1,0 +1,16 @@
+*{margin: 0;padding: 0; box-sizing: border-box;}
+::-webkit-scrollbar{
+    display: none;
+}
+body{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    /* background-color: rgb(158, 158, 158); */
+    position: relative;
+}
+.wave{
+   
+    position: fixed;
+    bottom: 0;
+    z-index:-2;
+}
