@@ -1,0 +1,18 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.txt{
+    font-family: 'Pacifico', cursive;
+}
+.dt{
+    font-family: 'Roboto', sans-serif;
+}
+
+.day{
+    background-image: url(/src/App/2.Weather/css/images/Day.png);
+}
+.night{
+    background-image: url(/src/App/2.Weather/css/images/Night.png);
+}
