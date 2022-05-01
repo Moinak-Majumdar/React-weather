@@ -1,5 +1,5 @@
 ☁️ Weather app :
 -----------------
-🌟 useing React, css, tailwind and Open Weather map api (free one).
+🌟 useing React, css, tailwind and <a href='https://openweathermap.org/'>Open Weather map</a> api.
  
- check: https://moinak-majumdar.github.io/React-weather/
+ deploy at gh-pages: <a href='https://moinak-majumdar.github.io/React-weather/'>check</a>
